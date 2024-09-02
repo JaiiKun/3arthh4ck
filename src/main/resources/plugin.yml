@@ -1,0 +1,6 @@
+name: DiscordLinker
+version: '1.0-SNAPSHOT'
+main: net.mrks.discordLinker.DiscordLinker
+api-version: '1.20'
+authors: [ mrks2 ]
+description: Discord linker to a Minecraft Server
